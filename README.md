@@ -1,1 +1,1 @@
-# Datavarehus og datagruvedrift (Vår 2016)
+# TDT4300
