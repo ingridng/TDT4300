@@ -1,1 +1,1 @@
-# DATAVAREHUS OG DATAGRUVEDRIFT VÅR 2016
+# Datavarehus og datagruvedrift (Vår 2016)
